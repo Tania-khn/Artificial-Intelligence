@@ -1,0 +1,8 @@
+{
+  "name": "rl-trading-engine",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bun --hot index.js"
+  },
+  "dependencies": {}
+}
